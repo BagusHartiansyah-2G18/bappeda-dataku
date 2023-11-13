@@ -1,0 +1,2 @@
+[02-Nov-2019 09:11:52 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/bappeda9/public_html/dataku/application/core/admin_core.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/bappeda9/public_html/dataku/application/controllers/Admin.php on line 2
+[02-Nov-2019 09:13:01 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/bappeda9/public_html/dataku/application/core/admin_core.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/bappeda9/public_html/dataku/application/controllers/Admin.php on line 2
